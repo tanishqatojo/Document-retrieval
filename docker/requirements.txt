@@ -1,0 +1,5 @@
+   Flask
+   elasticsearch
+   redis
+   requests
+   spacy
